@@ -16,7 +16,7 @@ connectDB(DATABASE_URL);
 // createDoc();
 // insertManyDoc();
 // allDoc();
-// updateById('65f435edcfa4d397bb945572');
-// deleteById('65f435edcfa4d397bb945572');
+// updateById('65f44001921aa1351a8b3555');
+// deleteById('65f44001921aa1351a8b3555');
 
 app.listen(port, () => console.log(`Server listening on port: ${port}`));
